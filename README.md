@@ -14,17 +14,8 @@ Error Handling: Provides feedback to the user for invalid city names.
 Installation
 To use the Weather App, follow these steps:
 
-Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/weather-app.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd weather-app
-Open the index.html file in your preferred web browser.
 
 Usage
 Enter the name of the city you want to check the weather for in the input field provided.
